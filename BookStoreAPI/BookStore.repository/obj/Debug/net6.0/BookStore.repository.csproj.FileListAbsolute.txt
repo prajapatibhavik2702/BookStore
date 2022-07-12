@@ -1,0 +1,15 @@
+F:\tatvasoft\API\CLI\BookStore\BookStore.repository\obj\Debug\net6.0\BookStore.repository.csproj.AssemblyReference.cache
+F:\tatvasoft\API\CLI\BookStore\BookStore.repository\obj\Debug\net6.0\BookStore.repository.GeneratedMSBuildEditorConfig.editorconfig
+F:\tatvasoft\API\CLI\BookStore\BookStore.repository\obj\Debug\net6.0\BookStore.repository.AssemblyInfoInputs.cache
+F:\tatvasoft\API\CLI\BookStore\BookStore.repository\obj\Debug\net6.0\BookStore.repository.AssemblyInfo.cs
+F:\tatvasoft\API\CLI\BookStore\BookStore.repository\obj\Debug\net6.0\BookStore.repository.csproj.CoreCompileInputs.cache
+F:\tatvasoft\API\CLI\BookStore\BookStore.repository\bin\Debug\net6.0\BookStore.repository.deps.json
+F:\tatvasoft\API\CLI\BookStore\BookStore.repository\bin\Debug\net6.0\BookStore.repository.dll
+F:\tatvasoft\API\CLI\BookStore\BookStore.repository\bin\Debug\net6.0\BookStore.repository.pdb
+F:\tatvasoft\API\CLI\BookStore\BookStore.repository\bin\Debug\net6.0\BookStore.models.dll
+F:\tatvasoft\API\CLI\BookStore\BookStore.repository\bin\Debug\net6.0\BookStore.models.pdb
+F:\tatvasoft\API\CLI\BookStore\BookStore.repository\obj\Debug\net6.0\BookStore.repository.csproj.CopyComplete
+F:\tatvasoft\API\CLI\BookStore\BookStore.repository\obj\Debug\net6.0\BookStore.repository.dll
+F:\tatvasoft\API\CLI\BookStore\BookStore.repository\obj\Debug\net6.0\refint\BookStore.repository.dll
+F:\tatvasoft\API\CLI\BookStore\BookStore.repository\obj\Debug\net6.0\BookStore.repository.pdb
+F:\tatvasoft\API\CLI\BookStore\BookStore.repository\obj\Debug\net6.0\ref\BookStore.repository.dll
